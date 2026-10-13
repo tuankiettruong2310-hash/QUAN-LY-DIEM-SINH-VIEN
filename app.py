@@ -130,4 +130,4 @@ plt.tight_layout()
 st.pyplot(plt.gcf())
 
 # 7. Họ tên & MSSV người tạo (chữ nhỏ ở cuối trang)
-st.caption("Người thực hiện: **[Nguyễn Thị Tình]** - MSSV: **[12345678]**")
+st.caption("Người thực hiện: **[Nguyễn Thị Tình]** - MSSV: **[038308019012]**")
